@@ -1,0 +1,35 @@
+Field=Designator~String~Designator~102|Field=Quantity~Integer~Quantity~110|Field=Comment~String~Comment~84|Field=Description~String~Description~128|Field=Manufacturer 1~String~Manufacturer 1~68|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~68|Field=Package / Case~String~Package / Case~68|Field=Supplier 1~String~Supplier 1~68|Field=Supplier Part Number 1~String~Supplier Part Number 1~54|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~28Pins_Project_V1I1.PrjPcb|ReportField=ProjectFullPath~S:\FEDEVEL\28pins\V1I1\28Pins_Project_V1I1.PrjPcb|ReportField=Title~28Pins Component reference grouped BOM For Variant [5V/3V3] of Project [28Pins_Project_V1I1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~95|ReportField=ReportTime~4:53:29 PM|ReportField=ReportDate~4/7/2015|ReportField=ReportDateTime~4/7/2015 4:53:29 PM|ReportField=OutputName~28Pins Component reference grouped BOM|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~5V/3V3|ReportField=ClientCompanyName~FEDEVEL Academy|ReportField=ClientContactEmail~robert.feranec@fedevel.com|ReportField=ClientContactName~Robert Feranec|ReportField=ClientWebsite~www.fedevel.com|ReportField=Company~(c) 2015 FEDEVEL Academy|ReportField=NotFitted~NF|ReportField=Project~28Pins|ReportField=VersionRevision~V1I1|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~4/7/2015|ReportField=CurrentTime~4:45:34 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~S:\FEDEVEL\28pins\V1I1\28Pins_Project_V1I1 Project.SchDoc|ReportField=DocumentName~28Pins_Project_V1I1 Project.SchDoc|ReportField=DocumentNumber~5|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~4/3/2015|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.07|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=A3|PrintScaleMode=1|ReportField=ProjectName~28Pins_Project_V1I1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~5|ReportField=SheetTotal~5|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~28Pins_Project_V1I1.PrjPcb|ReportField=DataSourceFullPath~S:\FEDEVEL\28pins\V1I1\28Pins_Project_V1I1.PrjPcb
+C1, C2|2|100u / 10V|CAP ALUM 100UF 10V 20% SMD|Panasonic Electronic Components|EEE-1AA101WR|Radial, Can - SMD|Digi-Key|PCE3867CT-ND
+C3, C12, C13, C19, C21, C22, C34|7|10uF / 16V|CAP CER 10UF 16V 20% X5R 0805|TDK Corporation|C2012X5R1C106M125AC|0805 (2012 Metric)|Digi-Key|445-4115-1-ND
+C4, C5, C6, C8, C11, C14, C15, C16, C17, C20, C23, C24, C26, C28, C29, C30, C31, C32, C33|19|100n|CAP CER 0.1UF 50V 10% X7R 0805|TDK Corporation|C2012X7R1H104K085AA|0805 (2012 Metric)|Digi-Key|445-7534-1-ND
+C7|1|1u|CAP CER 1UF 25V 10% X5R 0805|TDK Corporation|C2012X5R1E105K125AA|0805 (2012 Metric)|Digi-Key|445-1419-1-ND
+C9, C10, C25, C27|4|18p|CAP CER 18PF 50V 5% NP0 0805|Kemet|C0805C180J5GACTU|0805 (2012 Metric)|Digi-Key|399-1112-1-ND
+D1|1|Green|LED SMARTLED GREEN 570NM 0603|OSRAM Opto Semiconductors Inc|LG L29K-G2J1-24-Z|0603 (1608 Metric)|Digi-Key|475-2709-1-ND
+D2, D3, D4|3|Orange|LED SMARTLED ORANGE 606NM 0603|OSRAM Opto Semiconductors Inc|LO L29K-H2K1-24-Z|0603 (1608 Metric)|Digi-Key|475-2740-1-ND
+D5, D6|2|BAT54HT1G|DIODE SCHOTTKY 30V 0.2A SOD323|Fairchild Semiconductor|BAT54HT1G|SC-76, SOD-323|Digi-Key|BAT54HT1GCT-ND
+FB1, FB2, FB3|3|MPZ2012S601AT000|FERRITE CHIP BEAD 600 OHM SMD|TDK Corporation|MPZ2012S601AT000|0805 (2012 Metric)|Digi-Key|445-2206-1-ND
+J1, J3|2|HDR FMALE 1x8 2.54mm|08-WAY SIL VERT SOCKET L/FREE|Harwin Inc|M20-7820842||Digi-Key|952-1823-ND
+J2|1|HDR FMALE 1x6 2.54mm|06-WAY SIL VERT SOCKET L/FREE|Harwin Inc|M20-7820646||Digi-Key|952-1809-ND
+J4|1|HDR FMALE 1x10 2.54mm|10-WAY SIL VERT SOCKET L/FREE|Harwin Inc|M20-7821046||Digi-Key|952-1847-ND
+J5, J6|2|HDR 2x3|CONN HEADER 6POS .100 STR 30AU|FCI|67997-106HLF||Digi-Key|609-3393-ND
+J7|1|10118193-0001LF|CONN USB MICRO B RECPT SMT R/A|FCI|10118193-0001LF||Digi-Key|609-4616-1-ND
+JP1, JP4|2|HDR 1x3|BERGSTIK II .100" SR STRAIGHT|FCI|68000-103HLF||Digi-Key|609-3461-ND
+JP3|1|HDR 1x4|CONN HEADER 4POS .100 STR 15AU|FCI|68001-204HLF||Digi-Key|609-3402-ND
+L1|1|2u2 / 2A|FIXED IND 2.2UH 2A 80 MOHM SMD|Kemet|L1210R2R2MDWIT|1210 (3225 Metric)|Digi-Key|399-9598-1-ND
+LINK1, LINK2, LINK3|3|LINK|CONN JUMPER SHORTING .100" GOLD|Sullins Connector Solutions|QPC02SXGN-RC||Digi-Key|S9337-ND
+R1|1|100k|RES SMD 100K OHM 1% 1/8W 0805|Yageo|RC0805FR-07100KL|0805 (2012 Metric)|Digi-Key|311-100KCRCT-ND
+R2, R3, R15, R17, R22|5|560R|RES SMD 560 OHM 1% 1/8W 0805|Yageo|RC0805FR-07560RL|0805 (2012 Metric)|Digi-Key|311-560CRCT-ND
+R4, R14, R18, R19, R20, R21|6|10k|RES SMD 10K OHM 1% 1/8W 0805|Yageo|RC0805FR-0710KL|0805 (2012 Metric)|Digi-Key|311-10.0KCRCT-ND
+R5, R6, R7, R13, R23, R24, R25|7|22R|RES SMD 22 OHM 1% 1/8W 0805|Yageo|RC0805FR-0722RL|0805 (2012 Metric)|Digi-Key|311-22.0CRCT-ND
+R8|1|0R|RES 0.0 OHM 1/8W 0805 SMD|Yageo|RC0805JR-070RL|0805 (2012 Metric)|Digi-Key|311-0.0ARCT-ND
+R9, R16|2|1M|RES SMD 1M OHM 1% 1/8W 0805|Yageo|RC0805FR-071ML|0805 (2012 Metric)|Digi-Key|311-1.00MCRCT-ND
+R10, R11, R12|3|1k|RES SMD 1K OHM 1% 1/8W 0805|Yageo|RC0805FR-071KL|0805 (2012 Metric)|Digi-Key|311-1.00KCRCT-ND
+SCKT FOR U1|1|28-DIP Socket|CONN IC DIP SOCKET 28POS TIN|3M|4828-3004-CP||Digi-Key|3M5480-ND
+SW1, SW2|2|1825910-6|SWITCH TACTILE SPST-NO 0.05A 24V|TE Connectivity|1825910-6||Digi-Key|450-1650-ND
+U1|1|ATMEGA328P-PU|IC MCU 8BIT 32KB FLASH 28DIP|Atmel|ATMEGA328P-PU|28-DIP (0.300", 7.62mm)|Digi-Key|ATMEGA328P-PU-ND
+U2|1|ATMEGA16U2-AU|IC MCU 8BIT 16KB FLASH 32TQFP|Atmel|ATMEGA16U2-AU|32-TQFP|Digi-Key|ATMEGA16U2-AU-ND
+U3|1|TL1963A-33DCQR|IC REG LDO 3.3V 1.5A SOT223-6|Texas Instruments|TL1963A-33DCQR|SOT-223-6|Digi-Key|296-24534-1-ND
+U4, U5, U6, U7|4|SN74AHC1G09DBVR|IC GATE AND SGL 2INP SOT23-5|Texas Instruments|SN74AHC1G09DBVR|SC-74A, SOT-753|Digi-Key|296-29202-1-ND
+Y1|1|ABM7-10.0000MHZ-D2Y-T|CRYSTAL 10MHZ 18PF SMD|Abracon LLC|ABM7-10.0000MHZ-D2Y-T|2-SMD|Digi-Key|535-9833-1-ND
+Y2|1|ABM7-8.000MHZ-D2Y-T|CRYSTAL 8MHZ 18PF SMD|Abracon LLC|ABM7-8.000MHZ-D2Y-T|2-SMD|Digi-Key|535-9831-1-ND
+Z1, Z2|2|CG0603MLC-05E|VARISTOR 0603|Bourns Inc.|CG0603MLC-05E|0603 (1608 Metric)|Digi-Key|CG0603MLC-05ECT-ND
